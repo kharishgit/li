@@ -1,0 +1,401 @@
+.header{
+    width: 100%;
+    height: 100px;
+    
+}
+body{
+    margin: 0;
+}
+.ico{
+    width: 164px;
+    height: 87px;
+    margin-left: 132px;
+    margin-top: -2px;
+}
+
+
+
+.icon{
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+}
+.icns{
+    float: left;
+    
+    margin-top: 20px;
+    margin: 23px;
+    color: grey;
+    
+}
+.jn{
+    padding-top: 20px;
+    color: grey;
+    font-size: 19px;
+
+}
+.head{
+    width: 50%;
+    float: left;
+    
+    
+
+}
+.para1{
+    color: rgb(130, 55, 55);
+    margin-left: 150px;
+    font-size: 54px;
+}
+.imgs{
+    width: 50%;
+    float: right;
+    
+
+}
+.txt{
+    width: 377px;
+    height: 44px;
+    margin-left: 155px;
+    margin-top: 14px;
+    font-size: medium;
+
+}
+.bod2{
+    width: 100%;
+    margin-top: 50px;
+    height: 375px;
+    background-color: rgb(219, 219, 219);
+}
+.para2{
+    width: 40%;
+    float: left;
+    margin-left: 176px;
+    font-size: 42px;
+}
+
+.top{
+    width: 60%;
+    float: right;
+    margin-top: -135px;
+    margin-left: 98px;
+    font-size: 22px;
+}
+
+.bod3{
+    display: flex;
+    width: 100%;
+    
+    height: 375px;
+}
+.bod4{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    height: 250px;
+    background-color: rgb(238, 231, 231);
+}
+.but1{
+    font-weight: bold;
+    width: 200px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgb(252, 252, 252);
+    color: gray;
+    font-size: 20px;
+}
+.but2{
+    font-weight: bold;
+    margin-left: 6px;
+    width: 258px;
+    height: 55px;
+    border-radius: 27px;
+    background: transparent;
+    color: gray;
+    font-size: 20px;
+
+}
+.but3{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 291px;
+    height: 55px;
+    border-radius: 27px;
+    background: transparent;
+    color: gray;
+    font-size: 20px;
+}
+.but4{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 195px;
+    height: 55px;
+    border-radius: 27px;
+    background: transparent;
+    color: gray;
+    font-size: 20px;
+}
+.but5{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 165px;
+    height: 55px;
+    border-radius: 27px;
+    background: transparent;
+    color: gray;
+    font-size: 20px;
+
+}
+.but6{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 247px;
+    height: 55px;
+    border-radius: 27px;
+    background: transparent;
+    color: gray;
+    font-size: 20px;
+}
+.but7{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 147px;
+    height: 55px;
+    border-radius: 27px;
+    background: transparent;
+    color: gray;
+    font-size: 20px;
+}
+.but8{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 272px;
+    height: 55px;
+    border-radius: 27px;
+    background: transparent;
+    color: gray;
+    font-size: 20px;
+
+}
+.but9{
+    font-weight: bold;
+    width: 171;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+}
+.but10{
+    font-weight: bold;
+    margin-left: 6px;
+    width: 258px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+
+}
+.but11{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 124px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+}
+.b3p1{
+    font-size: 51px;
+    padding-left: 158px;
+    
+}
+.b3l{
+    padding-left: 28px;
+
+}
+.but12{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 271px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+}
+input:hover{
+    background-color: #b5b5b5;
+    
+}
+.but13{
+    
+    font-weight: bold;
+    margin-top: 10px;
+    width: 190px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+
+}
+.but14{
+    
+    font-weight: bold;
+    margin-top: 10px;
+    width: 190px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+
+}
+.but15{
+    
+    font-weight: bold;
+    margin-top: 10px;
+    width: 131px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+
+}
+.but16{
+    
+    font-weight: bold;
+    margin-top: 10px;
+    width: 245px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+
+}
+.but17{
+    
+    font-weight: bold;
+    margin-top: 10px;
+    width: 160px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+
+}
+.but18{
+    
+    font-weight: bold;
+    margin-top: 10px;
+    width: 221px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+
+}
+.b3lp1{
+    padding-top: 25px;
+    color: grey;
+    font-weight: bold;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    
+}
+.p1b4{
+    color: red;
+    margin-left: 223px;
+    font-size: 38px;
+    padding-top: 43px;
+}
+
+.but19{
+    font-weight: bold;
+    margin-top: 96px;
+    margin-left: 77px;
+    width: 107px;
+    height: 47px;
+    border-radius: 27px;
+    background: transparent;
+    color: gray;
+    font-size: 20px;
+
+
+}
+.bod5{
+    width: 100%;
+    display: flex;
+    height: 600px;
+    background-color: whitesmoke;
+
+}
+.pb5{
+    color: blue;
+    padding-left: 160px;
+    font-size: 40px;
+    padding-top: 60px;
+
+}
+.p2b5{
+    padding-left: 158px;
+    font-size: 30px;
+}
+.bod6{
+    width: 100%;
+    display: flex;
+    height: 500px; ;
+}
+.img3{
+    width: 300px;
+    padding-left: 140px;
+    padding-top: 101px;
+
+}
+.pb6{
+    font-size: 46px;
+    padding-left: 174px;
+}
+
+.but20{
+    font-weight: bold;
+    margin-top: 10px;
+    width: 231px;
+    height: 55px;
+    border-radius: 27px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+    margin-left: 175px;
+    margin-top: -18px;
+}
+.slt{
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: rgba(0,0,0,0.08);
+    color: gray;
+    font-size: 20px;
+    width: 357px;
+    height: 49px;
+    margin-left: 193px;
+    margin-top: -18px;
+}
+.bod7{
+    width: 100%;
+    display: flex;
+    height: 600px;
+    background-color: whitesmoke;
+}
+.lb7{
+    width: 50%;
+
+}
+.rb7{
+    width: 50%;
+    background-color: aliceblue;
+}
